@@ -1,5 +1,5 @@
 # Urly
-A super fast static URL shortener
+A super fast and simple edge powered URL shortener
 
 ## Usage
 ...
